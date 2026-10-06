@@ -2,4 +2,5 @@ discord.py
 requests
 icalendar
 pytz
+tzdata
 matplotlib
