@@ -1,6 +1,1 @@
-discord.py
-requests
-icalendar
-pytz
-tzdata
-matplotlib
+outdated anyways, idk bro
