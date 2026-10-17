@@ -1,1 +1,6 @@
-outdated anyways, idk bro
+discord.py
+requests
+icalendar
+pytz
+matplotlib
+numpy
